@@ -1,3 +1,23 @@
-body{
-    background-color: rgb(53, 124, 186);
+@use "./hero";
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Roboto, sans-serif;
+    color: #fff;
+}
+
+.container {
+    max-width: 960px;
+    width: 100%;
+    margin: 0 auto;
+
+    @media (max-width: 640px){
+        padding: 80px;
+    }
+
+    @media (max-width: 1024px){
+        padding: 90px;
+    }
 }
