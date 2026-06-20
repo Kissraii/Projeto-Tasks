@@ -1,5 +1,5 @@
 .hero {
-  background-image: url("../fundo.a297c4ee.jpeg");
+  background-image: url("../fundos.9cd3e5d5.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   padding-top: 64px;
@@ -53,12 +53,134 @@
   }
 }
 
+.infos-bar {
+  background-color: #fff;
+  justify-content: space-between;
+  padding: 16px 24px;
+  display: flex;
+}
+
+.infos-bar__infos {
+  gap: 40px;
+  display: flex;
+}
+
+.infos-bar__infos__item {
+  color: #000;
+  font-size: 14px;
+}
+
+.infos-bar__infos__item b {
+  color: #000;
+  font-size: 18px;
+  display: block;
+}
+
+@media (width <= 640px) {
+  .infos-bar, .infos-bar__infos {
+    display: block;
+  }
+
+  .infos-bar__infos__item {
+    margin-bottom: 24px;
+  }
+}
+
+@media (width <= 1024px) {
+  .infos-bar__infos {
+    gap: 16px;
+  }
+}
+
+.button {
+  text-align: center;
+  white-space: nowrap;
+  padding: 12px;
+  font-size: 18px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.button--primary {
+  color: #fff;
+  background-color: #f291a4;
+}
+
+@media (width <= 640px) {
+  .button {
+    align-items: center;
+    width: 100%;
+    display: flex;
+  }
+}
+
+@media (width <= 1024px) {
+  .button {
+    align-items: center;
+    display: flex;
+  }
+}
+
+.event {
+  padding: 80px 0;
+}
+
+.event--Convocação {
+  filter: brightness(80%);
+  background-image: linear-gradient(#d8a7b1, #d8a7b177);
+}
+
+.event--Restaurante {
+  filter: brightness(80%);
+  background-image: linear-gradient(#d8a7b177, #d8a7b1);
+}
+
+.event .container {
+  display: flex;
+}
+
+.event__image {
+  max-width: 500px;
+}
+
+.event__details {
+  margin-right: 40px;
+}
+
+.event__details__title {
+  color: #000;
+  margin-bottom: 16px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.event__details__description {
+  color: #000;
+  line-height: 22px;
+}
+
+@media (width <= 640px) {
+  .event .container {
+    display: block;
+  }
+
+  .event__image {
+    width: 100%;
+  }
+
+  .event__details {
+    margin-bottom: 16px;
+    margin-right: 0;
+  }
+}
+
 * {
   box-sizing: border-box;
   color: #fff;
   margin: 0;
   padding: 0;
   font-family: Roboto, sans-serif;
+  list-style: none;
 }
 
 .container {
