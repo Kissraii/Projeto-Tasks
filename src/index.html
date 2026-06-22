@@ -8,6 +8,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
     <title>DevTasks</title>
     <link rel="stylesheet" href="./styles/main.scss">
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 </head>
 <body>
     <header class="hero">
@@ -36,7 +37,7 @@
         </div>
     </header>
 
-        <section class="event event--Convocação">
+        <section class="event event--convocacao" data-aos="fade-right">
         <div class="container">
             <div class="event__details">
                 <h2 class="event__details__title">⚡ Convocação Oficial para uma Missão Épica! ⚡</h2>
@@ -49,19 +50,19 @@
             <img class="event__image" src="./imagens/logo.png" alt="Imagem 1">
         </div>
     </section>
-    <section class="event event--Restaurante">
+    <section class="event event--restaurante event--image-left" data-aos="fade-left">
         <div class="container">
             <div class="event__details">
-                <h2 class="event__details__title">📌 Restaurante📌</h2>
+                <h2 class="event__details__title">📌 Restaurante📌 </h2>
                 <p class="event__details__description">
                     R. Gen. Lima e Silva, 1058 - Centro Histórico, Porto Alegre - RS, 90050-102
                 </p>
             </div>
-            <img class="event__image" src="./imagens/restaurante.jpg" alt="Imagem 2">
+            <img class="event__image" src="./imagens/restaurante.jpeg" alt="Imagem 2">
         </div>
     </section>
 
-
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
     <script src="./scripts/main.js"></script>
 </body>
 </html>

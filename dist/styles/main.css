@@ -125,26 +125,27 @@
   padding: 80px 0;
 }
 
-.event--Convocação {
+.event--convocacao {
   filter: brightness(80%);
   background-image: linear-gradient(#d8a7b1, #d8a7b177);
 }
 
-.event--Restaurante {
+.event--restaurante {
   filter: brightness(80%);
   background-image: linear-gradient(#d8a7b177, #d8a7b1);
 }
 
+.event--image-left .container {
+  flex-direction: row-reverse;
+}
+
 .event .container {
+  gap: 40px;
   display: flex;
 }
 
 .event__image {
   max-width: 500px;
-}
-
-.event__details {
-  margin-right: 40px;
 }
 
 .event__details__title {
