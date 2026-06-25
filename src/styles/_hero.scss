@@ -3,7 +3,7 @@
 .hero {
     padding-top: 64px;
     padding-bottom: 100px;
-    background-image: url(../imagens/fundos.jpg);
+    background-image: url(../imagens/fundos.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -18,9 +18,8 @@
         left: 0;
         width: 100%;
         height: 100%;
-        background-color: variables.$textColor;
         content: '';
-        opacity: .7;
+        opacity: .5;
     }
 
     &__text {

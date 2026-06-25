@@ -1,5 +1,5 @@
 .hero {
-  background-image: url("../fundos.9cd3e5d5.jpg");
+  background-image: url("../fundos.f031aebe.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   padding-top: 64px;
@@ -13,8 +13,7 @@
 
 .hero:before {
   content: "";
-  opacity: .7;
-  background-color: #000;
+  opacity: .5;
   width: 100%;
   height: 100%;
   position: absolute;
@@ -103,7 +102,7 @@
 
 .button--primary {
   color: #fff;
-  background-color: #f291a4;
+  background-color: #73061c9e;
 }
 
 @media (width <= 640px) {
@@ -125,14 +124,14 @@
   padding: 80px 0;
 }
 
-.event--convocacao {
+.event--convocacao, .event--restaurante {
   filter: brightness(80%);
-  background-image: linear-gradient(#d8a7b1, #d8a7b177);
+  background-image: linear-gradient(#73061c9e, #8e4a5c, #bf7676e7);
 }
 
-.event--restaurante {
+.event--sobre {
   filter: brightness(80%);
-  background-image: linear-gradient(#d8a7b177, #d8a7b1);
+  background-image: linear-gradient(#bf7676e7, #8e4a5c, #73061c9e);
 }
 
 .event--image-left .container {
@@ -149,14 +148,14 @@
 }
 
 .event__details__title {
-  color: #000;
+  color: #fff;
   margin-bottom: 16px;
   font-size: 18px;
   font-weight: bold;
 }
 
 .event__details__description {
-  color: #000;
+  color: #fff;
   line-height: 22px;
 }
 

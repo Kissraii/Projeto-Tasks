@@ -10,7 +10,7 @@
 
     &--primary{
         background-color: variables.$bottomColor;
-        color: variables.$secondaryColor;
+        color: variables.$textColor;
     }
 
     @media (max-width: 640px){

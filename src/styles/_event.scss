@@ -4,12 +4,17 @@
     padding: 80px 0;
 
         &--convocacao{
-            background-image:linear-gradient(to bottom, variables.$pink1, variables.$pink2);
+            background-image:linear-gradient(to bottom, variables.$pink1, variables.$pink2,variables.$pink3);
         filter:brightness(80%);
         }
 
         &--restaurante{
-            background-image:linear-gradient(to bottom, variables.$pink2, variables.$pink1);
+            background-image:linear-gradient(to bottom,variables.$pink1, variables.$pink2,variables.$pink3);
+        filter:brightness(80%);
+        }
+
+        &--sobre{
+            background-image:linear-gradient(to bottom,variables.$pink3,variables.$pink2,variables.$pink1);
         filter:brightness(80%);
         }
 
