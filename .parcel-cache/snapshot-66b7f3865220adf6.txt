@@ -1,13 +1,13 @@
-3731
+3739
 83C:\Users\bruno\Downloads\Projeto-tasks\node_modules\caniuse-lite\data\regions\BI.js134244917991258473 0
 96C:\Users\bruno\Downloads\Projeto-tasks\node_modules\caniuse-lite\data\features\form-attribute.js134244918039187577 0
-51C:\Users\bruno\Downloads\Projeto-tasks\package.json134268197253018105 0
+51C:\Users\bruno\Downloads\Projeto-tasks\package.json134268203404611427 0
 80C:\Users\bruno\Downloads\Projeto-tasks\node_modules\electron-to-chromium\LICENSE134244917889502867 0
 92C:\Users\bruno\Downloads\Projeto-tasks\node_modules\caniuse-lite\data\features\pdf-viewer.js134244918047687588 0
 79C:\Users\bruno\Downloads\Projeto-tasks\node_modules\@parcel\runtime-browser-hmr134244917944584972 1
 76C:\Users\bruno\Downloads\Projeto-tasks\node_modules\node-addon-api\nothing.c134244917888230368 0
 81C:\Users\bruno\Downloads\Projeto-tasks\node_modules\@parcel\packager-html\LICENSE134244917889188330 0
-43C:\Users\bruno\Downloads\Projeto-tasks\dist134268197296853359 1
+43C:\Users\bruno\Downloads\Projeto-tasks\dist134268204485541354 1
 94C:\Users\bruno\Downloads\Projeto-tasks\node_modules\caniuse-lite\data\features\css3-tabsize.js134244918014171734 0
 72C:\Users\bruno\Downloads\Projeto-tasks\node_modules\sharp\lib\utility.js134260418690313728 0
 73C:\Users\bruno\Downloads\Projeto-tasks\node_modules\dotenv-expand\LICENSE134244917888629828 0
@@ -19,6 +19,7 @@
 71C:\Users\bruno\Downloads\Projeto-tasks\node_modules\@parcel\events\test134244917955345344 1
 58C:\Users\bruno\Downloads\Projeto-tasks\node_modules\@lezer134244917856728344 1
 49C:\Users\bruno\Downloads\Projeto-tasks\.gitignore134256115240838283 0
+63C:\Users\bruno\Downloads\Projeto-tasks\dist\festa.2dddbc97.jpeg134268199464456096 0
 74C:\Users\bruno\Downloads\Projeto-tasks\node_modules\immutable\package.json134244929751242656 0
 72C:\Users\bruno\Downloads\Projeto-tasks\node_modules\json5\lib\unicode.js134244917952698775 0
 92C:\Users\bruno\Downloads\Projeto-tasks\node_modules\caniuse-lite\data\features\ogg-vorbis.js134244918047191874 0
@@ -40,13 +41,13 @@
 99C:\Users\bruno\Downloads\Projeto-tasks\node_modules\caniuse-lite\data\features\css-focus-visible.js134244918008935678 0
 92C:\Users\bruno\Downloads\Projeto-tasks\node_modules\type-fest\source\fixed-length-array.d.ts134244917960696623 0
 68C:\Users\bruno\Downloads\Projeto-tasks\node_modules\json5\LICENSE.md134244917956028957 0
-53C:\Users\bruno\Downloads\Projeto-tasks\src\index.html134266530964550857 0
+53C:\Users\bruno\Downloads\Projeto-tasks\src\index.html134268203353926766 0
 83C:\Users\bruno\Downloads\Projeto-tasks\node_modules\caniuse-lite\data\regions\BM.js134244917992034247 0
 69C:\Users\bruno\Downloads\Projeto-tasks\node_modules\base-x\LICENSE.md134244917916090481 0
 76C:\Users\bruno\Downloads\Projeto-tasks\node_modules\sharp\lib\constructor.js134260418688373763 0
 88C:\Users\bruno\Downloads\Projeto-tasks\node_modules\@parcel\source-map\dist\node.js.flow134244917889654112 0
 70C:\Users\bruno\Downloads\Projeto-tasks\node_modules\has-flag\readme.md134244917923332477 0
-69C:\Users\bruno\Downloads\Projeto-tasks\dist\Projeto-tasks.59712999.js134268197296403995 0
+69C:\Users\bruno\Downloads\Projeto-tasks\dist\Projeto-tasks.59712999.js134268203425283507 0
 85C:\Users\bruno\Downloads\Projeto-tasks\node_modules\caniuse-lite\data\features\url.js134244918057224049 0
 50C:\Users\bruno\Downloads\Projeto-tasks\src\scripts134244919816533322 1
 78C:\Users\bruno\Downloads\Projeto-tasks\node_modules\@parcel\rust\index.js.flow134244917890424925 0
@@ -142,7 +143,7 @@
 79C:\Users\bruno\Downloads\Projeto-tasks\node_modules\lightningcss-win32-x64-msvc134244917916329850 1
 82C:\Users\bruno\Downloads\Projeto-tasks\node_modules\postcss-value-parser\README.md134244917943787094 0
 94C:\Users\bruno\Downloads\Projeto-tasks\node_modules\node-gyp-build-optional-packages\README.md134244917933789744 0
-58C:\Users\bruno\Downloads\Projeto-tasks\src\scripts\main.js134268195531529261 0
+58C:\Users\bruno\Downloads\Projeto-tasks\src\scripts\main.js134268205340252703 0
 68C:\Users\bruno\Downloads\Projeto-tasks\node_modules\readdirp\LICENSE134244929748105486 0
 81C:\Users\bruno\Downloads\Projeto-tasks\node_modules\@parcel\workers\src\Worker.js134244917982391944 0
 87C:\Users\bruno\Downloads\Projeto-tasks\node_modules\msgpackr\dist\index-no-eval.cjs.map134244917970096628 0
@@ -343,7 +344,7 @@
 108C:\Users\bruno\Downloads\Projeto-tasks\node_modules\msgpackr-extract\node_modules\detect-libc\lib\process.js134244917934238534 0
 107C:\Users\bruno\Downloads\Projeto-tasks\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\sample-bdb.txt134244918009471274 0
 69C:\Users\bruno\Downloads\Projeto-tasks\node_modules\term-size\license134244917918992997 0
-69C:\Users\bruno\Downloads\Projeto-tasks\dist\restaurante.f44908eb.jpeg134268197287551335 0
+69C:\Users\bruno\Downloads\Projeto-tasks\dist\restaurante.f44908eb.jpeg134268203424804788 0
 75C:\Users\bruno\Downloads\Projeto-tasks\node_modules\nullthrows\package.json134244917888619852 0
 79C:\Users\bruno\Downloads\Projeto-tasks\node_modules\@parcel\rust\src\browser.js134244917921258118 0
 76C:\Users\bruno\Downloads\Projeto-tasks\node_modules\safe-buffer\package.json134244917893445770 0
@@ -940,6 +941,7 @@
 67C:\Users\bruno\Downloads\Projeto-tasks\node_modules\sharp\lib\is.js134260418688712816 0
 99C:\Users\bruno\Downloads\Projeto-tasks\node_modules\caniuse-lite\data\features\css-rebeccapurple.js134244918011575652 0
 97C:\Users\bruno\Downloads\Projeto-tasks\node_modules\caniuse-lite\data\features\resource-timing.js134244918053037832 0
+74C:\Users\bruno\Downloads\Projeto-tasks\dist\Projeto-tasks.5836d09c.css.map134268199467869452 0
 89C:\Users\bruno\Downloads\Projeto-tasks\node_modules\lightningcss\node_modules\detect-libc134244917942402160 1
 72C:\Users\bruno\Downloads\Projeto-tasks\node_modules\sharp\lib\libvips.js134260418688997245 0
 91C:\Users\bruno\Downloads\Projeto-tasks\node_modules\lmdb\node_modules\node-addon-api\napi.h134244917950929599 0
@@ -1090,7 +1092,7 @@
 81C:\Users\bruno\Downloads\Projeto-tasks\node_modules\@swc\helpers\esm\_ts_param.js134244918000526251 0
 75C:\Users\bruno\Downloads\Projeto-tasks\node_modules\msgpackr\test-worker.js134244917966578062 0
 68C:\Users\bruno\Downloads\Projeto-tasks\node_modules\sass\types\value134244929753451190 1
-59C:\Users\bruno\Downloads\Projeto-tasks\dist\styles\main.css134268197296374058 0
+59C:\Users\bruno\Downloads\Projeto-tasks\dist\styles\main.css134268203425652504 0
 85C:\Users\bruno\Downloads\Projeto-tasks\node_modules\sass\types\value\calculation.d.ts134244929750381342 0
 91C:\Users\bruno\Downloads\Projeto-tasks\node_modules\@parcel\core\lib\dumpGraphToGraphViz.js134244917986763890 0
 81C:\Users\bruno\Downloads\Projeto-tasks\node_modules\@parcel\feature-flags\LICENSE134244917889432682 0
@@ -1325,7 +1327,7 @@
 84C:\Users\bruno\Downloads\Projeto-tasks\node_modules\msgpackr-extract\src\extract.cpp134244917921046333 0
 78C:\Users\bruno\Downloads\Projeto-tasks\node_modules\@parcel\diagnostic\LICENSE134244917889462595 0
 86C:\Users\bruno\Downloads\Projeto-tasks\node_modules\msgpackr-extract\node_modules\.bin134244918059891153 1
-50C:\Users\bruno\Downloads\Projeto-tasks\dist\styles134268197296683226 1
+50C:\Users\bruno\Downloads\Projeto-tasks\dist\styles134268203425712361 1
 92C:\Users\bruno\Downloads\Projeto-tasks\node_modules\@swc\helpers\src\_is_native_function.mjs134244918013207375 0
 73C:\Users\bruno\Downloads\Projeto-tasks\node_modules\@swc\helpers\_\_throw134244918010418754 1
 93C:\Users\bruno\Downloads\Projeto-tasks\node_modules\msgpackr-extract\node_modules\detect-libc134244917942083338 1
@@ -1423,7 +1425,7 @@
 99C:\Users\bruno\Downloads\Projeto-tasks\node_modules\@parcel\core\test\fixtures\context\package.json134244918009182045 0
 88C:\Users\bruno\Downloads\Projeto-tasks\node_modules\msgpackr\dist\unpack-no-eval.cjs.map134244917982760793 0
 76C:\Users\bruno\Downloads\Projeto-tasks\node_modules\@swc\core-win32-x64-msvc134244917998114019 1
-54C:\Users\bruno\Downloads\Projeto-tasks\dist\index.html134268197287403208 0
+54C:\Users\bruno\Downloads\Projeto-tasks\dist\index.html134268203425153853 0
 83C:\Users\bruno\Downloads\Projeto-tasks\node_modules\caniuse-lite\data\regions\QA.js134244918048477298 0
 78C:\Users\bruno\Downloads\Projeto-tasks\node_modules\@parcel\types\package.json134244917894429650 0
 60C:\Users\bruno\Downloads\Projeto-tasks\node_modules\lmdb\bin134244918001941986 1
@@ -1569,6 +1571,7 @@
 102C:\Users\bruno\Downloads\Projeto-tasks\node_modules\@parcel\runtime-js\src\helpers\worker\js-loader.js134244917970566322 0
 81C:\Users\bruno\Downloads\Projeto-tasks\node_modules\@parcel\workers\lib\Handle.js134244917966348658 0
 83C:\Users\bruno\Downloads\Projeto-tasks\node_modules\caniuse-lite\data\regions\TG.js134244918056385841 0
+61C:\Users\bruno\Downloads\Projeto-tasks\dist\logo.20ae74be.png134268199464456096 0
 86C:\Users\bruno\Downloads\Projeto-tasks\node_modules\@parcel\utils\src\openInBrowser.js134244917981612414 0
 82C:\Users\bruno\Downloads\Projeto-tasks\node_modules\@swc\helpers\src\_to_array.mjs134244918013812686 0
 111C:\Users\bruno\Downloads\Projeto-tasks\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_load.c134244917984710785 0
@@ -1652,7 +1655,7 @@
 93C:\Users\bruno\Downloads\Projeto-tasks\node_modules\lightningcss\node_modules\detect-libc\lib134244917933839611 1
 111C:\Users\bruno\Downloads\Projeto-tasks\node_modules\@swc\helpers\esm\_class_static_private_field_destructure.js134244917995514938 0
 97C:\Users\bruno\Downloads\Projeto-tasks\node_modules\lightningcss\node_modules\detect-libc\LICENSE134244917889554458 0
-51C:\Users\bruno\Downloads\Projeto-tasks\dist\scripts134268197296853359 1
+51C:\Users\bruno\Downloads\Projeto-tasks\dist\scripts134268204485531401 1
 90C:\Users\bruno\Downloads\Projeto-tasks\node_modules\@parcel\core\lib\public\BundleGroup.js134244917981286743 0
 96C:\Users\bruno\Downloads\Projeto-tasks\node_modules\@swc\helpers\_\_async_generator\package.json134244918001981877 0
 87C:\Users\bruno\Downloads\Projeto-tasks\node_modules\caniuse-lite\data\features\http3.js134244918041605947 0
@@ -1681,6 +1684,7 @@
 67C:\Users\bruno\Downloads\Projeto-tasks\node_modules\json5\README.md134244917957309137 0
 72C:\Users\bruno\Downloads\Projeto-tasks\node_modules\json5\lib\index.d.ts134244917963111252 0
 95C:\Users\bruno\Downloads\Projeto-tasks\node_modules\caniuse-lite\data\features\text-overflow.js134244918056264422 0
+69C:\Users\bruno\Downloads\Projeto-tasks\dist\Projeto-tasks.d1c5ac67.js134268199467589845 0
 70C:\Users\bruno\Downloads\Projeto-tasks\node_modules\json5\lib\index.js134244917922655630 0
 84C:\Users\bruno\Downloads\Projeto-tasks\node_modules\@parcel\transformer-node\LICENSE134244917888889149 0
 83C:\Users\bruno\Downloads\Projeto-tasks\node_modules\caniuse-lite\data\regions\PM.js134244918047981093 0
@@ -2472,7 +2476,7 @@
 93C:\Users\bruno\Downloads\Projeto-tasks\node_modules\caniuse-lite\data\features\wasm-bigint.js134244918057822505 0
 89C:\Users\bruno\Downloads\Projeto-tasks\node_modules\caniuse-lite\data\features\streams.js134244918055637231 0
 90C:\Users\bruno\Downloads\Projeto-tasks\node_modules\caniuse-lite\data\features\svg-smil.js134244918055939272 0
-73C:\Users\bruno\Downloads\Projeto-tasks\dist\Projeto-tasks.f75de5e1.js.map134268197296663283 0
+73C:\Users\bruno\Downloads\Projeto-tasks\dist\Projeto-tasks.f75de5e1.js.map134268204485531401 0
 85C:\Users\bruno\Downloads\Projeto-tasks\node_modules\caniuse-lite\data\features\svg.js134244918055979452 0
 97C:\Users\bruno\Downloads\Projeto-tasks\node_modules\caniuse-lite\data\features\text-decoration.js134244918056228823 0
 95C:\Users\bruno\Downloads\Projeto-tasks\node_modules\caniuse-lite\data\features\text-emphasis.js134244918056253560 0
@@ -2484,6 +2488,7 @@
 85C:\Users\bruno\Downloads\Projeto-tasks\node_modules\caniuse-lite\data\features\ttf.js134244918056982301 0
 93C:\Users\bruno\Downloads\Projeto-tasks\node_modules\caniuse-lite\data\features\typedarrays.js134244918057043164 0
 82C:\Users\bruno\Downloads\Projeto-tasks\node_modules\@swc\helpers\_\_inherits_loose134244918009211964 1
+73C:\Users\bruno\Downloads\Projeto-tasks\dist\Projeto-tasks.d1c5ac67.js.map134268199467869452 0
 105C:\Users\bruno\Downloads\Projeto-tasks\node_modules\caniuse-lite\data\features\upgradeinsecurerequests.js134244918057176100 0
 109C:\Users\bruno\Downloads\Projeto-tasks\node_modules\caniuse-lite\data\features\url-scroll-to-text-fragment.js134244918057196052 0
 97C:\Users\bruno\Downloads\Projeto-tasks\node_modules\caniuse-lite\data\features\urlsearchparams.js134244918057241219 0
@@ -2700,7 +2705,7 @@
 97C:\Users\bruno\Downloads\Projeto-tasks\node_modules\@swc\helpers\_\_array_with_holes\package.json134244918001822297 0
 93C:\Users\bruno\Downloads\Projeto-tasks\node_modules\@parcel\source-map\dist\SourceMap.js.flow134244917894117956 0
 100C:\Users\bruno\Downloads\Projeto-tasks\node_modules\@swc\helpers\_\_array_like_to_array\package.json134244918001802356 0
-63C:\Users\bruno\Downloads\Projeto-tasks\dist\scripts\main.js.map134268197296663283 0
+63C:\Users\bruno\Downloads\Projeto-tasks\dist\scripts\main.js.map134268204485531401 0
 96C:\Users\bruno\Downloads\Projeto-tasks\node_modules\@swc\helpers\_\_apply_decs_2311\package.json134244918001732550 0
 107C:\Users\bruno\Downloads\Projeto-tasks\node_modules\@swc\helpers\_\_apply_decorated_descriptor\package.json134244918001672705 0
 85C:\Users\bruno\Downloads\Projeto-tasks\node_modules\@swc\helpers\_\index\package.json134244918011356233 0
@@ -2731,7 +2736,7 @@
 84C:\Users\bruno\Downloads\Projeto-tasks\node_modules\@parcel\fs\src\NodeFS.browser.js134244917948589581 0
 112C:\Users\bruno\Downloads\Projeto-tasks\node_modules\@swc\helpers\src\_class_static_private_field_destructure.mjs134244918012274795 0
 109C:\Users\bruno\Downloads\Projeto-tasks\node_modules\@swc\helpers\src\_class_static_private_field_spec_get.mjs134244918012304709 0
-63C:\Users\bruno\Downloads\Projeto-tasks\dist\styles\main.css.map134268197296663283 0
+63C:\Users\bruno\Downloads\Projeto-tasks\dist\styles\main.css.map134268203425692417 0
 109C:\Users\bruno\Downloads\Projeto-tasks\node_modules\@swc\helpers\src\_class_static_private_field_spec_set.mjs134244918012324664 0
 86C:\Users\bruno\Downloads\Projeto-tasks\node_modules\@parcel\feature-flags\lib\index.js134244917916260048 0
 107C:\Users\bruno\Downloads\Projeto-tasks\node_modules\@swc\helpers\src\_class_static_private_field_update.mjs134244918012344597 0
@@ -2950,6 +2955,7 @@
 82C:\Users\bruno\Downloads\Projeto-tasks\node_modules\@swc\helpers\cjs\_ts_param.cjs134244917991078551 0
 97C:\Users\bruno\Downloads\Projeto-tasks\node_modules\@parcel\transformer-svg\lib\SVGTransformer.js134244917890674251 0
 110C:\Users\bruno\Downloads\Projeto-tasks\node_modules\@swc\helpers\cjs\_ts_rewrite_relative_import_extension.cjs134244917991098512 0
+70C:\Users\bruno\Downloads\Projeto-tasks\dist\Projeto-tasks.5836d09c.css134268199467589845 0
 83C:\Users\bruno\Downloads\Projeto-tasks\node_modules\@swc\helpers\cjs\_ts_values.cjs134244917991278468 0
 90C:\Users\bruno\Downloads\Projeto-tasks\node_modules\@parcel\core\lib\public\BundleGraph.js134244917975443759 0
 99C:\Users\bruno\Downloads\Projeto-tasks\node_modules\@parcel\transformer-html\src\HTMLTransformer.js134244917916190231 0
@@ -3331,7 +3337,7 @@
 75C:\Users\bruno\Downloads\Projeto-tasks\node_modules\@parcel\runtime-rsc\lib134244917890504715 1
 79C:\Users\bruno\Downloads\Projeto-tasks\node_modules\@parcel\runtime-rsc\LICENSE134244917889188330 0
 87C:\Users\bruno\Downloads\Projeto-tasks\node_modules\@parcel\runtime-rsc\rsc-helpers.jsx134244917929012743 0
-73C:\Users\bruno\Downloads\Projeto-tasks\dist\Projeto-tasks.59712999.js.map134268197296663283 0
+73C:\Users\bruno\Downloads\Projeto-tasks\dist\Projeto-tasks.59712999.js.map134268203425652504 0
 96C:\Users\bruno\Downloads\Projeto-tasks\node_modules\@parcel\core\test\fixtures\duplicate-targets134244918009561039 1
 75C:\Users\bruno\Downloads\Projeto-tasks\node_modules\@parcel\runtime-rsc\src134244917916230110 1
 89C:\Users\bruno\Downloads\Projeto-tasks\node_modules\@parcel\runtime-rsc\src\RSCRuntime.js134244917919478391 0
@@ -3723,10 +3729,12 @@
 67C:\Users\bruno\Downloads\Projeto-tasks\node_modules\.bin\semver.ps1134244918059871201 0
 83C:\Users\bruno\Downloads\Projeto-tasks\node_modules\.bin\update-browserslist-db.cmd134244918059871201 0
 83C:\Users\bruno\Downloads\Projeto-tasks\node_modules\.bin\update-browserslist-db.ps1134244918059881173 0
-63C:\Users\bruno\Downloads\Projeto-tasks\dist\festa.11946465.jpeg134268197287631110 0
+63C:\Users\bruno\Downloads\Projeto-tasks\dist\festa.11946465.jpeg134268203425243620 0
 62C:\Users\bruno\Downloads\Projeto-tasks\dist\fundo.ed3ce1de.png134260441233624574 0
-64C:\Users\bruno\Downloads\Projeto-tasks\dist\fundos.f031aebe.jpeg134268197287413183 0
-61C:\Users\bruno\Downloads\Projeto-tasks\dist\logo.c29ad96d.png134268197287631110 0
+64C:\Users\bruno\Downloads\Projeto-tasks\dist\fundos.1b863393.jpeg134268199464456096 0
+64C:\Users\bruno\Downloads\Projeto-tasks\dist\fundos.f031aebe.jpeg134268203425183769 0
+61C:\Users\bruno\Downloads\Projeto-tasks\dist\logo.c29ad96d.png134268203424824725 0
 67C:\Users\bruno\Downloads\Projeto-tasks\dist\principal.f6541931.jpeg134260439284507670 0
-69C:\Users\bruno\Downloads\Projeto-tasks\dist\Projeto-tasks.f75de5e1.js134268197296403995 0
-59C:\Users\bruno\Downloads\Projeto-tasks\dist\scripts\main.js134268197296403995 0
+69C:\Users\bruno\Downloads\Projeto-tasks\dist\Projeto-tasks.f75de5e1.js134268204485491483 0
+69C:\Users\bruno\Downloads\Projeto-tasks\dist\restaurante.45de4e93.jpeg134268199464456096 0
+59C:\Users\bruno\Downloads\Projeto-tasks\dist\scripts\main.js134268204485461593 0

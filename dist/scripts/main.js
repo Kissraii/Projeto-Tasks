@@ -715,27 +715,27 @@ function hmrAccept(bundle /*: ParcelRequire */ , id /*: string */ ) {
 
 },{}],"3cYfC":[function(require,module,exports,__globalThis) {
 AOS.init();
-const dataDoEvento = new Date("Nov 29,2026 20:00:00");
+const dataDoEvento = new Date("Nov 29, 2026 20:00:00");
 const timeStampDoEvento = dataDoEvento.getTime();
 const contaAsHoras = setInterval(function() {
     const agora = new Date();
     const timeStampAtual = agora.getTime();
     const distanciaAteOEvento = timeStampDoEvento - timeStampAtual;
-    console.log(diasAteOEvento);
-    console.log(horasAteOEvent);
-    console.log(minutosAteOEvent);
-    console.log(segundosAteOEvent);
     const diaEmMS = 86400000;
-    const horaEmMs = 3600000;
-    const minutoEmMs = 60000;
-    const diasAteOEvento = Math.floor(distanciaAteOEvento / diaEmMs);
-    const horasAteOEvento = Math.floor(distanciaAteOEvento % diaEmMs / horaEmMs);
-    const minutosAteOEvento = Math.floor(distanciaAteOEvento % horaEmMs / minutoEmMs);
-    const segundosAteOEvento = Math.floor(distanciaAteOEvento % inutoEmMs / 1000);
-    document.getElementById('contador').innerHTML = '${diasAteOEvento}d ${horasAteOEvento}h ${minutosAteOEvento}m ${segundosAteOEvento}s';
+    const horaEmMS = 3600000;
+    const minutoEmMS = 60000;
+    const diasAteOEvento = Math.floor(distanciaAteOEvento / diaEmMS);
+    const horasAteOEvento = Math.floor(distanciaAteOEvento % diaEmMS / horaEmMS);
+    const minutosAteOEvento = Math.floor(distanciaAteOEvento % horaEmMS / minutoEmMS);
+    const segundosAteOEvento = Math.floor(distanciaAteOEvento % minutoEmMS / 1000);
+    console.log(diasAteOEvento);
+    console.log(horasAteOEvento);
+    console.log(minutosAteOEvento);
+    console.log(segundosAteOEvento);
+    document.getElementById('contador').innerHTML = `${diasAteOEvento}d ${horasAteOEvento}h ${minutosAteOEvento}m ${segundosAteOEvento}s`;
     if (distanciaAteOEvento < 0) {
         clearInterval(contaAsHoras);
-        document.getElementById('contador').innerHTML = 'Evento expirada';
+        document.getElementById('contador').innerHTML = 'Evento expirado';
     }
 }, 1000);
 
