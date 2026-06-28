@@ -1,5 +1,27 @@
 AOS.init();
 
+// Botão de confirmação de presença
+const botaoPresenca = document.getElementById('confirmar-presenca');
+
+if (botaoPresenca) {
+
+    if (localStorage.getItem('presencaConfirmada') === 'sim') {
+        botaoPresenca.innerHTML = 'Presença Confirmada ✔';
+        botaoPresenca.style.pointerEvents = 'none';
+    }
+
+    botaoPresenca.addEventListener('click', function (event) {
+        event.preventDefault();
+
+        localStorage.setItem('presencaConfirmada', 'sim');
+
+        botaoPresenca.innerHTML = 'Presença Confirmada ✔';
+        botaoPresenca.style.pointerEvents = 'none';
+
+        alert('Presença confirmada com sucesso! 🎉');
+    });
+}
+
 const dataDoEvento = new Date("Nov 29, 2026 20:00:00");
 const timeStampDoEvento = dataDoEvento.getTime();
 
@@ -18,11 +40,6 @@ const contaAsHoras = setInterval(function () {
     const horasAteOEvento = Math.floor((distanciaAteOEvento % diaEmMS) / horaEmMS);
     const minutosAteOEvento = Math.floor((distanciaAteOEvento % horaEmMS) / minutoEmMS);
     const segundosAteOEvento = Math.floor((distanciaAteOEvento % minutoEmMS) / 1000);
-
-    console.log(diasAteOEvento);
-    console.log(horasAteOEvento);
-    console.log(minutosAteOEvento);
-    console.log(segundosAteOEvento);
 
     document.getElementById('contador').innerHTML =
         `${diasAteOEvento}d ${horasAteOEvento}h ${minutosAteOEvento}m ${segundosAteOEvento}s`;
